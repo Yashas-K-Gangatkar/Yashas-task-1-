@@ -1,2 +1,10 @@
-# Yashas-task-1-
-assinment-1 (Full_name)
+x = int(input(" enter the x :" ))
+y = int(input(" enter the y :" ))
+add = x + y
+sub = x - y
+mul = x * y
+div =  (x / y)
+print("addition =", add)
+print("subtraction =", sub)
+print("multiplication =", mul)
+print("division =", div)
